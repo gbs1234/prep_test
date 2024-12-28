@@ -1,2 +1,2 @@
-from math import pi, sin
+from math import sin, pi
 print(sin(pi/4))
